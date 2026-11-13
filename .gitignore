@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.log
+.pytest_cache/
+.DS_Store
